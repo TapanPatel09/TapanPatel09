@@ -3,11 +3,13 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tapanpatel2630@gmail.com)
 
 ## 👨‍💻 About Me
+- 👋 Hi, I’m **Tapan Patel**
 - 🎓 B.Tech in Information Technology @ A. D. Patel Institute of Technology
-- ✅ Completed 300+ questions on LeetCode
-- 💡 Passionate about full-stack web development
-- 🔭 Exploring real-world applications with practical coding
-- 🌱 Always curious to learn new technologies!
+- 📫 Email: tapanpatel2630@gmail.com
+- 🚀 Completed **300+ LeetCode problems**
+- 💻 Currently exploring **MERN stack development**
+- 🔧 Passionate about building scalable web apps
+- 🎯 Always learning new things in tech!
 
 ---
 
@@ -37,12 +39,12 @@
 
 ## 📊 GitHub Stats
 
-![Tapan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tapan0936T&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tapan0936T&layout=compact&theme=tokyonight)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Tapan0936T&theme=tokyonight)
+![Tapan's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Tapan0936T&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tapan0936T&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tapan0936T&theme=tokyonight)
 
 ---
 
 ## 📈 Contribution Graph
 
-[![Tapan Patel's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tapan0936T&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Tapan's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tapan0936T&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
