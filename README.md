@@ -35,16 +35,3 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-![Tapan's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Tapan0936T&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tapan0936T&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tapan0936T&theme=tokyonight)
-
----
-
-## 📈 Contribution Graph
-
-[![Tapan's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tapan0936T&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
